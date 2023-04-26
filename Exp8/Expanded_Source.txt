@@ -1,0 +1,7 @@
+pg1 start 0
+** using *,15
+** l 1,five
+** ar 5,3
+** sr 5,4
+** mr 5,3
+** END **

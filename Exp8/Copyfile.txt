@@ -1,0 +1,6 @@
+pg1 start 0
+** using *,15
+** l 1,five
+** MATH **
+** MUL **
+** END **
